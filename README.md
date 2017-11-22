@@ -1,3 +1,7 @@
-## Template
+# FarmStack 
 
-The template in `farmstack/main/templates/main/` comes from: https://startbootstrap.com/template-overviews/creative/
+Proof-of-concept for an open API for agri data powered by Wageningen University's AgroDataCube.  
+
+Endpoint: http://farmstack.nl/api/v1/
+
+Docs: http://farmstack.nl/api/v1/docs/
